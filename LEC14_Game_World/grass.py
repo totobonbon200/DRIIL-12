@@ -9,9 +9,9 @@ class Grass:
 
     def draw(self):
         if self.state == 0:
-            self.image.draw(400, 50)
+            self.image.draw(400, 35)
         elif self.state == 1:
-            self.image.draw(400, 30)
+            self.image.draw(400, 15)
 
     def update(self):
         pass
