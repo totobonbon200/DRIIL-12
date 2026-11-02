@@ -1,5 +1,5 @@
 # game world list initial
-world = [[], []] # list of empty object, empty list
+world = [[], [], []] # list of empty object, empty list
 
 # 객체를 게임함수에 추가하는 함수
 def add_object(o, depth):
